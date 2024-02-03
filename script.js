@@ -117,4 +117,4 @@ function newFunction() {
 
 let buyNowBtn = document.querySelectorAll("#buyNow")
 
-addEventListener.onclick
+ 
